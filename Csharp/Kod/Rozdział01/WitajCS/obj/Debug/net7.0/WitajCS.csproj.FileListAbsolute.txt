@@ -1,0 +1,30 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\obj\Debug\net7.0\WitajCS.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\obj\Debug\net7.0\WitajCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\obj\Debug\net7.0\WitajCS.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\obj\Debug\net7.0\WitajCS.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\obj\Debug\net7.0\WitajCS.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\bin\Debug\net7.0\WitajCS.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\bin\Debug\net7.0\WitajCS.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\bin\Debug\net7.0\WitajCS.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\bin\Debug\net7.0\WitajCS.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\bin\Debug\net7.0\WitajCS.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\obj\Debug\net7.0\WitajCS.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\obj\Debug\net7.0\refint\WitajCS.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\obj\Debug\net7.0\WitajCS.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\obj\Debug\net7.0\WitajCS.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział 1\WitajCS\obj\Debug\net7.0\ref\WitajCS.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\bin\Debug\net7.0\WitajCS.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\bin\Debug\net7.0\WitajCS.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\bin\Debug\net7.0\WitajCS.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\bin\Debug\net7.0\WitajCS.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\bin\Debug\net7.0\WitajCS.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\obj\Debug\net7.0\WitajCS.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\obj\Debug\net7.0\WitajCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\obj\Debug\net7.0\WitajCS.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\obj\Debug\net7.0\WitajCS.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\obj\Debug\net7.0\WitajCS.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\obj\Debug\net7.0\WitajCS.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\obj\Debug\net7.0\refint\WitajCS.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\obj\Debug\net7.0\WitajCS.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\obj\Debug\net7.0\WitajCS.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajCS\obj\Debug\net7.0\ref\WitajCS.dll
