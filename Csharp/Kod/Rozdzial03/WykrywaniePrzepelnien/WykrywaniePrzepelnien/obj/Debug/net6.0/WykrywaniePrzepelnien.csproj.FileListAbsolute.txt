@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\bin\Debug\net6.0\WykrywaniePrzepelnien.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\bin\Debug\net6.0\WykrywaniePrzepelnien.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\bin\Debug\net6.0\WykrywaniePrzepelnien.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\bin\Debug\net6.0\WykrywaniePrzepelnien.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\bin\Debug\net6.0\WykrywaniePrzepelnien.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\obj\Debug\net6.0\WykrywaniePrzepelnien.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\obj\Debug\net6.0\WykrywaniePrzepelnien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\obj\Debug\net6.0\WykrywaniePrzepelnien.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\obj\Debug\net6.0\WykrywaniePrzepelnien.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\obj\Debug\net6.0\WykrywaniePrzepelnien.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\obj\Debug\net6.0\WykrywaniePrzepelnien.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\obj\Debug\net6.0\refint\WykrywaniePrzepelnien.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\obj\Debug\net6.0\WykrywaniePrzepelnien.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\obj\Debug\net6.0\WykrywaniePrzepelnien.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\WykrywaniePrzepelnien\WykrywaniePrzepelnien\obj\Debug\net6.0\ref\WykrywaniePrzepelnien.dll
