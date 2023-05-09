@@ -1,0 +1,17 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\bin\Debug\net6.0\Argumenty.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\bin\Debug\net6.0\Argumenty.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\bin\Debug\net6.0\Argumenty.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\bin\Debug\net6.0\Argumenty.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\bin\Debug\net6.0\Argumenty.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\Argumenty.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\Argumenty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\Argumenty.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\Argumenty.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\Argumenty.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\Argumenty.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\refint\Argumenty.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\Argumenty.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\Argumenty.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\ref\Argumenty.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\Argumenty.Properties.Resources.resources
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Argumenty\Argumenty\obj\Debug\net6.0\Argumenty.csproj.GenerateResource.cache
