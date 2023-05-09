@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\bin\Debug\net6.0\Liczby.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\bin\Debug\net6.0\Liczby.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\bin\Debug\net6.0\Liczby.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\bin\Debug\net6.0\Liczby.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\bin\Debug\net6.0\Liczby.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\obj\Debug\net6.0\Liczby.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\obj\Debug\net6.0\Liczby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\obj\Debug\net6.0\Liczby.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\obj\Debug\net6.0\Liczby.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\obj\Debug\net6.0\Liczby.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\obj\Debug\net6.0\Liczby.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\obj\Debug\net6.0\refint\Liczby.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\obj\Debug\net6.0\Liczby.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\obj\Debug\net6.0\Liczby.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział01\WitajDotNetCore\Liczby\Liczby\obj\Debug\net6.0\ref\Liczby.dll

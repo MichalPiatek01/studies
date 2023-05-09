@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\obj\Debug\net6.0\Zmienne.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\obj\Debug\net6.0\Zmienne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\obj\Debug\net6.0\Zmienne.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\obj\Debug\net6.0\Zmienne.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\obj\Debug\net6.0\Zmienne.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\bin\Debug\net6.0\Zmienne.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\bin\Debug\net6.0\Zmienne.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\bin\Debug\net6.0\Zmienne.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\bin\Debug\net6.0\Zmienne.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\bin\Debug\net6.0\Zmienne.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\obj\Debug\net6.0\Zmienne.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\obj\Debug\net6.0\refint\Zmienne.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\obj\Debug\net6.0\Zmienne.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\obj\Debug\net6.0\Zmienne.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial02\Zmienne\Zmienne\obj\Debug\net6.0\ref\Zmienne.dll
