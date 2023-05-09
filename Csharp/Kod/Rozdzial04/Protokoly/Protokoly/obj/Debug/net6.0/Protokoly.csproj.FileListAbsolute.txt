@@ -1,0 +1,17 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\bin\Debug\net6.0\Protokoly.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\bin\Debug\net6.0\Protokoly.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\bin\Debug\net6.0\Protokoly.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\bin\Debug\net6.0\Protokoly.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\bin\Debug\net6.0\Protokoly.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\Protokoly.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\Protokoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\Protokoly.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\Protokoly.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\Protokoly.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\Protokoly.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\refint\Protokoly.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\Protokoly.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\Protokoly.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\ref\Protokoly.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\Protokoly.Properties.Resources.resources
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Protokoly\Protokoly\obj\Debug\net6.0\Protokoly.csproj.GenerateResource.cache

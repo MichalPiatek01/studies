@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\bin\Debug\net6.0\TworzenieFunkcji.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\bin\Debug\net6.0\TworzenieFunkcji.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\bin\Debug\net6.0\TworzenieFunkcji.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\bin\Debug\net6.0\TworzenieFunkcji.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\bin\Debug\net6.0\TworzenieFunkcji.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\obj\Debug\net6.0\TworzenieFunkcji.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\obj\Debug\net6.0\TworzenieFunkcji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\obj\Debug\net6.0\TworzenieFunkcji.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\obj\Debug\net6.0\TworzenieFunkcji.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\obj\Debug\net6.0\TworzenieFunkcji.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\obj\Debug\net6.0\TworzenieFunkcji.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\obj\Debug\net6.0\refint\TworzenieFunkcji.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\obj\Debug\net6.0\TworzenieFunkcji.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\obj\Debug\net6.0\TworzenieFunkcji.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\TworzenieFunkcji\TworzenieFunkcji\obj\Debug\net6.0\ref\TworzenieFunkcji.dll

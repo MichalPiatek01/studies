@@ -1,0 +1,5 @@
+Typ Debug mówi, że już jest gotowy!
+Typ Trace mówi, że już jest gotowy!
+Poziom błędów
+Poziom ostrzeżeń
+Poziom informacji

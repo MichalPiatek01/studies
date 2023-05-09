@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Protokoly": {
+      "commandName": "Project",
+      "commandLineArgs": "info"
+    }
+  }
+}
