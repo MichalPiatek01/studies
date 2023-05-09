@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\bin\Debug\net6.0\Debugowanie.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\bin\Debug\net6.0\Debugowanie.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\bin\Debug\net6.0\Debugowanie.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\bin\Debug\net6.0\Debugowanie.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\bin\Debug\net6.0\Debugowanie.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\obj\Debug\net6.0\Debugowanie.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\obj\Debug\net6.0\Debugowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\obj\Debug\net6.0\Debugowanie.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\obj\Debug\net6.0\Debugowanie.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\obj\Debug\net6.0\Debugowanie.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\obj\Debug\net6.0\Debugowanie.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\obj\Debug\net6.0\refint\Debugowanie.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\obj\Debug\net6.0\Debugowanie.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\obj\Debug\net6.0\Debugowanie.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\Debugowanie\Debugowanie\obj\Debug\net6.0\ref\Debugowanie.dll

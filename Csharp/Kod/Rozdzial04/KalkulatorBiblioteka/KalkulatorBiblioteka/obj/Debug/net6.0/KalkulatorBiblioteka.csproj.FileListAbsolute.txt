@@ -1,0 +1,12 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\bin\Debug\net6.0\KalkulatorBiblioteka.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\bin\Debug\net6.0\KalkulatorBiblioteka.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\bin\Debug\net6.0\KalkulatorBiblioteka.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\obj\Debug\net6.0\KalkulatorBiblioteka.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\obj\Debug\net6.0\KalkulatorBiblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\obj\Debug\net6.0\KalkulatorBiblioteka.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\obj\Debug\net6.0\KalkulatorBiblioteka.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\obj\Debug\net6.0\KalkulatorBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\obj\Debug\net6.0\KalkulatorBiblioteka.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\obj\Debug\net6.0\refint\KalkulatorBiblioteka.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\obj\Debug\net6.0\KalkulatorBiblioteka.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial04\KalkulatorBiblioteka\KalkulatorBiblioteka\obj\Debug\net6.0\ref\KalkulatorBiblioteka.dll
