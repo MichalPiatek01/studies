@@ -1,0 +1,5 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\obj\Debug\net7.0\InstrukcjeWyboru.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\obj\Debug\net7.0\InstrukcjeWyboru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\obj\Debug\net7.0\InstrukcjeWyboru.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\obj\Debug\net7.0\InstrukcjeWyboru.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\obj\Debug\net7.0\InstrukcjeWyboru.csproj.CoreCompileInputs.cache

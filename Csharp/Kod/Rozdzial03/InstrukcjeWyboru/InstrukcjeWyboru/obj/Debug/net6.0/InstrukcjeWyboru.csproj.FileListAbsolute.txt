@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\bin\Debug\net6.0\InstrukcjeWyboru.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\bin\Debug\net6.0\InstrukcjeWyboru.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\bin\Debug\net6.0\InstrukcjeWyboru.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\bin\Debug\net6.0\InstrukcjeWyboru.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\bin\Debug\net6.0\InstrukcjeWyboru.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\obj\Debug\net6.0\InstrukcjeWyboru.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\obj\Debug\net6.0\InstrukcjeWyboru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\obj\Debug\net6.0\InstrukcjeWyboru.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\obj\Debug\net6.0\InstrukcjeWyboru.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\obj\Debug\net6.0\InstrukcjeWyboru.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\obj\Debug\net6.0\InstrukcjeWyboru.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\obj\Debug\net6.0\refint\InstrukcjeWyboru.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\obj\Debug\net6.0\InstrukcjeWyboru.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\obj\Debug\net6.0\InstrukcjeWyboru.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial03\InstrukcjeWyboru\InstrukcjeWyboru\obj\Debug\net6.0\ref\InstrukcjeWyboru.dll
