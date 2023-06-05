@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageId>CS7.BibliotekaWspolna</PackageId>
+		<PackageVersion>1.0.0.0</PackageVersion>
+		<Authors>Mark J Price</Authors>
+		<PackageLicenseUrl>
+			http://opensource.org/licenses/MS-PL
+		</PackageLicenseUrl>
+		<PackageProjectUrl>
+			http://github.com/markjprice/cs7dotnetcore2
+		</PackageProjectUrl>
+		<PackageIconUrl>
+			http://github.com/markjprice/cs7dotnetcore2/nuget.png
+		</PackageIconUrl>
+		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<PackageReleaseNotes>
+			Przykładowa biblioteka współdzielona w postaci pakietu NuGet.
+		</PackageReleaseNotes>
+		<Description>
+			Trzy metody rozszerzające kontrolujące wartości typu string.
+		</Description>
+		<Copyright>
+			Copyright ©2017 Packt Publishing Limited
+		</Copyright>
+		<PackageTags>string extension cs7</PackageTags>
+	</PropertyGroup>
+</Project>

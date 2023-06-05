@@ -1,0 +1,12 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\bin\Debug\net6.0\BibliotekaWspolna.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\bin\Debug\net6.0\BibliotekaWspolna.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\bin\Debug\net6.0\BibliotekaWspolna.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\obj\Debug\net6.0\BibliotekaWspolna.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\obj\Debug\net6.0\BibliotekaWspolna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\obj\Debug\net6.0\BibliotekaWspolna.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\obj\Debug\net6.0\BibliotekaWspolna.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\obj\Debug\net6.0\BibliotekaWspolna.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\obj\Debug\net6.0\BibliotekaWspolna.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\obj\Debug\net6.0\refint\BibliotekaWspolna.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\obj\Debug\net6.0\BibliotekaWspolna.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\obj\Debug\net6.0\ref\BibliotekaWspolna.dll

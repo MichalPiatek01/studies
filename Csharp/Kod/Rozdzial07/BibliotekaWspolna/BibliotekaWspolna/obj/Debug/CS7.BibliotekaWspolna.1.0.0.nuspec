@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CS7.BibliotekaWspolna</id>
+    <version>1.0.0</version>
+    <authors>Mark J Price</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/MS-PL</licenseUrl>
+    <projectUrl>http://github.com/markjprice/cs7dotnetcore2</projectUrl>
+    <iconUrl>http://github.com/markjprice/cs7dotnetcore2/nuget.png</iconUrl>
+    <description>Trzy metody rozszerzające kontrolujące wartości typu string.</description>
+    <releaseNotes>Przykładowa biblioteka współdzielona w postaci pakietu NuGet.</releaseNotes>
+    <copyright>Copyright ©2017 Packt Publishing Limited</copyright>
+    <tags>string extension cs7</tags>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdzial07\BibliotekaWspolna\BibliotekaWspolna\bin\Debug\net6.0\BibliotekaWspolna.dll" target="lib\net6.0\BibliotekaWspolna.dll" />
+  </files>
+</package>
