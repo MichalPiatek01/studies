@@ -1,0 +1,203 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DialectSoftware.Collections.Matrix/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/DialectSoftware.Collections.Matrix.dll": {}
+        },
+        "runtime": {
+          "lib/DialectSoftware.Collections.Matrix.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CS7.BibliotekaWspolna/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CS7.BibliotekaWspolna.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CS7.BibliotekaWspolna.dll": {}
+        }
+      },
+      "DotNetCoreWszedzie/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DotNetCoreWszedzie.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DotNetCoreWszedzie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DialectSoftware.Collections.Matrix/1.0.0": {
+      "sha512": "O0//+wnBGhEn+dMj60Cfg0DhlR/IrCFvCI4Bqau5ygQVOnxApV5O2NqRQtCYNUVERW+VrNmGiYZHsU/zrV8eSQ==",
+      "type": "package",
+      "path": "dialectsoftware.collections.matrix/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dialectsoftware.collections.matrix.1.0.0.nupkg.sha512",
+        "dialectsoftware.collections.matrix.nuspec",
+        "lib/DialectSoftware.Collections.Matrix.dll"
+      ]
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "CS7.BibliotekaWspolna/1.0.0": {
+      "type": "project",
+      "path": "../BibliotekaWspolna/BibliotekaWspolna/BibliotekaWspolna.csproj",
+      "msbuildProject": "../BibliotekaWspolna/BibliotekaWspolna/BibliotekaWspolna.csproj"
+    },
+    "DotNetCoreWszedzie/1.0.0": {
+      "type": "project",
+      "path": "../DotNetCoreWszedzie/DotNetCoreWszedzie.csproj",
+      "msbuildProject": "../DotNetCoreWszedzie/DotNetCoreWszedzie.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CS7.BibliotekaWspolna >= 1.0.0",
+      "DotNetCoreWszedzie >= 1.0.0",
+      "Newtonsoft.Json >= 13.0.3",
+      "dialectsoftware.collections.matrix >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Murzy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\Zestawy\\Zestawy.csproj",
+      "projectName": "Zestawy",
+      "projectPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\Zestawy\\Zestawy.csproj",
+      "packagesPath": "C:\\Users\\Murzy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\Zestawy\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Murzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\BibliotekaWspolna\\BibliotekaWspolna\\BibliotekaWspolna.csproj": {
+              "projectPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\BibliotekaWspolna\\BibliotekaWspolna\\BibliotekaWspolna.csproj"
+            },
+            "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\DotNetCoreWszedzie\\DotNetCoreWszedzie.csproj": {
+              "projectPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\DotNetCoreWszedzie\\DotNetCoreWszedzie.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          },
+          "dialectsoftware.collections.matrix": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „DialectSoftware.Collections.Matrix 1.0.0” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „net6.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "DialectSoftware.Collections.Matrix",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

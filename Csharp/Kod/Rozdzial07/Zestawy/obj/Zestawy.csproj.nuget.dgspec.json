@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\Zestawy\\Zestawy.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\BibliotekaWspolna\\BibliotekaWspolna\\BibliotekaWspolna.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\BibliotekaWspolna\\BibliotekaWspolna\\BibliotekaWspolna.csproj",
+        "projectName": "CS7.BibliotekaWspolna",
+        "projectPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\BibliotekaWspolna\\BibliotekaWspolna\\BibliotekaWspolna.csproj",
+        "packagesPath": "C:\\Users\\Murzy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\BibliotekaWspolna\\BibliotekaWspolna\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Murzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\DotNetCoreWszedzie\\DotNetCoreWszedzie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\DotNetCoreWszedzie\\DotNetCoreWszedzie.csproj",
+        "projectName": "DotNetCoreWszedzie",
+        "projectPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\DotNetCoreWszedzie\\DotNetCoreWszedzie.csproj",
+        "packagesPath": "C:\\Users\\Murzy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\DotNetCoreWszedzie\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Murzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx.10.12-x64": {
+          "#import": []
+        },
+        "rhel.7-x64": {
+          "#import": []
+        },
+        "ubuntu.14.04-x64": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\Zestawy\\Zestawy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\Zestawy\\Zestawy.csproj",
+        "projectName": "Zestawy",
+        "projectPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\Zestawy\\Zestawy.csproj",
+        "packagesPath": "C:\\Users\\Murzy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\Zestawy\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Murzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\BibliotekaWspolna\\BibliotekaWspolna\\BibliotekaWspolna.csproj": {
+                "projectPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\BibliotekaWspolna\\BibliotekaWspolna\\BibliotekaWspolna.csproj"
+              },
+              "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\DotNetCoreWszedzie\\DotNetCoreWszedzie.csproj": {
+                "projectPath": "C:\\Users\\Murzy\\Desktop\\Csharp\\tutorial\\Kod\\Rozdzial07\\DotNetCoreWszedzie\\DotNetCoreWszedzie.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "dialectsoftware.collections.matrix": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
