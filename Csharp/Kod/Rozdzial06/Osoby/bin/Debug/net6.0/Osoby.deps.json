@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Osoby/1.0.0": {
+        "dependencies": {
+          "Biblioteka": "1.0.0"
+        },
+        "runtime": {
+          "Osoby.dll": {}
+        }
+      },
+      "Biblioteka/1.0.0": {
+        "runtime": {
+          "Biblioteka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Osoby/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
