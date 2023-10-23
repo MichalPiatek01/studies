@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\bin\Debug\net6.0\PracaZLiczbami.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\bin\Debug\net6.0\PracaZLiczbami.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\bin\Debug\net6.0\PracaZLiczbami.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\bin\Debug\net6.0\PracaZLiczbami.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\bin\Debug\net6.0\PracaZLiczbami.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\obj\Debug\net6.0\PracaZLiczbami.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\obj\Debug\net6.0\PracaZLiczbami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\obj\Debug\net6.0\PracaZLiczbami.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\obj\Debug\net6.0\PracaZLiczbami.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\obj\Debug\net6.0\PracaZLiczbami.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\obj\Debug\net6.0\PracaZLiczbami.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\obj\Debug\net6.0\refint\PracaZLiczbami.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\obj\Debug\net6.0\PracaZLiczbami.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\obj\Debug\net6.0\PracaZLiczbami.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZLiczbami\obj\Debug\net6.0\ref\PracaZLiczbami.dll

@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\bin\Debug\net6.0\PracaZZasobamiSieciowymi.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\bin\Debug\net6.0\PracaZZasobamiSieciowymi.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\bin\Debug\net6.0\PracaZZasobamiSieciowymi.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\bin\Debug\net6.0\PracaZZasobamiSieciowymi.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\bin\Debug\net6.0\PracaZZasobamiSieciowymi.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\obj\Debug\net6.0\PracaZZasobamiSieciowymi.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\obj\Debug\net6.0\PracaZZasobamiSieciowymi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\obj\Debug\net6.0\PracaZZasobamiSieciowymi.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\obj\Debug\net6.0\PracaZZasobamiSieciowymi.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\obj\Debug\net6.0\PracaZZasobamiSieciowymi.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\obj\Debug\net6.0\PracaZZasobamiSieciowymi.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\obj\Debug\net6.0\refint\PracaZZasobamiSieciowymi.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\obj\Debug\net6.0\PracaZZasobamiSieciowymi.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\obj\Debug\net6.0\PracaZZasobamiSieciowymi.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZZasobamiSieciowymi\obj\Debug\net6.0\ref\PracaZZasobamiSieciowymi.dll

@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\bin\Debug\net6.0\PracaZListami.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\bin\Debug\net6.0\PracaZListami.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\bin\Debug\net6.0\PracaZListami.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\bin\Debug\net6.0\PracaZListami.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\bin\Debug\net6.0\PracaZListami.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\obj\Debug\net6.0\PracaZListami.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\obj\Debug\net6.0\PracaZListami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\obj\Debug\net6.0\PracaZListami.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\obj\Debug\net6.0\PracaZListami.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\obj\Debug\net6.0\PracaZListami.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\obj\Debug\net6.0\PracaZListami.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\obj\Debug\net6.0\refint\PracaZListami.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\obj\Debug\net6.0\PracaZListami.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\obj\Debug\net6.0\PracaZListami.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZListami\obj\Debug\net6.0\ref\PracaZListami.dll

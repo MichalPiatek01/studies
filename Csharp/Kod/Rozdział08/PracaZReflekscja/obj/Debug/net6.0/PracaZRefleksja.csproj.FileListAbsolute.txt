@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\bin\Debug\net6.0\PracaZRefleksja.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\bin\Debug\net6.0\PracaZRefleksja.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\bin\Debug\net6.0\PracaZRefleksja.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\bin\Debug\net6.0\PracaZRefleksja.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\bin\Debug\net6.0\PracaZRefleksja.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\obj\Debug\net6.0\PracaZRefleksja.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\obj\Debug\net6.0\PracaZRefleksja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\obj\Debug\net6.0\PracaZRefleksja.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\obj\Debug\net6.0\PracaZRefleksja.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\obj\Debug\net6.0\PracaZRefleksja.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\obj\Debug\net6.0\PracaZRefleksja.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\obj\Debug\net6.0\refint\PracaZRefleksja.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\obj\Debug\net6.0\PracaZRefleksja.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\obj\Debug\net6.0\PracaZRefleksja.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZReflekscja\obj\Debug\net6.0\ref\PracaZRefleksja.dll

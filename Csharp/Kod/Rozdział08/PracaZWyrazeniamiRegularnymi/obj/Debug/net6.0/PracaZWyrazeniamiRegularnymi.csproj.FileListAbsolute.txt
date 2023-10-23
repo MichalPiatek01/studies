@@ -1,0 +1,15 @@
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\bin\Debug\net6.0\PracaZWyrazeniamiRegularnymi.exe
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\bin\Debug\net6.0\PracaZWyrazeniamiRegularnymi.deps.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\bin\Debug\net6.0\PracaZWyrazeniamiRegularnymi.runtimeconfig.json
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\bin\Debug\net6.0\PracaZWyrazeniamiRegularnymi.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\bin\Debug\net6.0\PracaZWyrazeniamiRegularnymi.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\obj\Debug\net6.0\PracaZWyrazeniamiRegularnymi.csproj.AssemblyReference.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\obj\Debug\net6.0\PracaZWyrazeniamiRegularnymi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\obj\Debug\net6.0\PracaZWyrazeniamiRegularnymi.AssemblyInfoInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\obj\Debug\net6.0\PracaZWyrazeniamiRegularnymi.AssemblyInfo.cs
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\obj\Debug\net6.0\PracaZWyrazeniamiRegularnymi.csproj.CoreCompileInputs.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\obj\Debug\net6.0\PracaZWyrazeniamiRegularnymi.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\obj\Debug\net6.0\refint\PracaZWyrazeniamiRegularnymi.dll
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\obj\Debug\net6.0\PracaZWyrazeniamiRegularnymi.pdb
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\obj\Debug\net6.0\PracaZWyrazeniamiRegularnymi.genruntimeconfig.cache
+C:\Users\Murzy\Desktop\Csharp\tutorial\Kod\Rozdział08\PracaZWyrazeniamiRegularnymi\obj\Debug\net6.0\ref\PracaZWyrazeniamiRegularnymi.dll
