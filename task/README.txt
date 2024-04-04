@@ -13,6 +13,7 @@ Kolejność ról jest alfabetyczna.
 - Java
 - Docker
 - Keycloak
+- Maven
 
 ## Uruchamianie aplikacji
 
