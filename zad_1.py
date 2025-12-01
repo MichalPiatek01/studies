@@ -232,6 +232,149 @@ def gain_ratio(dane, atrybut,
     print(f"GainRatio(a{atrybut}, T) = {ratio:.16f}")
     return ratio
 
+# =========================================================
+#      BUDOWANIE DRZEWA DECYZYJNEGO (ID3/C4.5 z GainRatio)
+# =========================================================
+
+def all_same_class(dane):
+    """Sprawdza, czy wszystkie wiersze mają tę samą klasę decyzyjną."""
+    pierwsza = dane[0][-1]
+    return all(w[-1] == pierwsza for w in dane)
+
+
+def majority_class(dane):
+    """Zwraca klasę większościową w zbiorze."""
+    decyzje = [w[-1] for w in dane]
+    return Counter(decyzje).most_common(1)[0][0]
+
+
+def gain_ratio_value(dane, atrybut):
+    """
+    Wersja GainRatio(X,T) BEZ wypisywania po drodze.
+    Korzysta z tych samych wzorów co gain_ratio(), ale jest "cicha".
+    """
+    T = len(dane)
+
+    # Info(T)
+    decyzje = [w[-1] for w in dane]
+    info_T_val = entropy_decisions(decyzje)
+
+    # Info(X, T)
+    podzial = info_attribute(dane, atrybut)
+    info_XT = 0.0
+    for wartosc, dec_sub in podzial.items():
+        Ti = len(dec_sub)
+        info_XT += (Ti / T) * entropy_decisions(dec_sub)
+
+    gain_val = info_T_val - info_XT
+
+    # SplitInfo(X, T)
+    licznik_wartosci = Counter(w[atrybut - 1] for w in dane)
+    split = 0.0
+    for cnt in licznik_wartosci.values():
+        p = cnt / T
+        if p > 0:
+            split -= p * math.log2(p)
+
+    if split == 0:
+        return 0.0
+
+    return gain_val / split
+
+
+def best_attribute_by_gain_ratio(dane, dostepne_atrybuty):
+    """Wybiera atrybut o największym GainRatio."""
+    best_attr = None
+    best_ratio = -1.0
+
+    for a in dostepne_atrybuty:
+        r = gain_ratio_value(dane, a)
+        if r > best_ratio:
+            best_ratio = r
+            best_attr = a
+
+    return best_attr
+
+
+def build_tree(dane, dostepne_atrybuty):
+    """
+    Rekurencyjnie buduje drzewo decyzyjne.
+    Struktura:
+      - węzeł wewnętrzny: {"type": "node", "attr": numer_atrybutu, "children": {wartosc: poddrzewo}}
+      - liść:           {"type": "leaf", "class": nazwa_klasy}
+    """
+    # 1. Jeśli wszystkie przykłady mają tę samą klasę -> liść
+    if all_same_class(dane):
+        return {"type": "leaf", "class": dane[0][-1]}
+
+    # 2. Jeśli nie ma już atrybutów -> liść z klasą większościową
+    if not dostepne_atrybuty:
+        return {"type": "leaf", "class": majority_class(dane)}
+
+    # 3. Wybór najlepszego atrybutu wg GainRatio
+    best_attr = best_attribute_by_gain_ratio(dane, dostepne_atrybuty)
+    if best_attr is None:
+        # awaryjnie, gdyby coś poszło nie tak
+        return {"type": "leaf", "class": majority_class(dane)}
+
+    # 4. Podział danych wg wartości najlepszego atrybutu
+    children = {}
+    wartosci = set(w[best_attr - 1] for w in dane)
+
+    remaining_attrs = [a for a in dostepne_atrybuty if a != best_attr]
+
+    for wartosc in wartosci:
+        podzbior = [w for w in dane if w[best_attr - 1] == wartosc]
+        if not podzbior:
+            # Brak przykładów -> liść z klasą większościową całego zbioru
+            children[wartosc] = {"type": "leaf", "class": majority_class(dane)}
+        else:
+            children[wartosc] = build_tree(podzbior, remaining_attrs)
+
+    return {"type": "node", "attr": best_attr, "children": children}
+
+# =========================================================
+#      WYPISYWANIE DRZEWA W FORMACIE wizualizacja.txt
+# =========================================================
+
+def print_subtree(node, edge_label, level=1):
+    """
+    Rekurencyjnie wypisuje poddrzewo z odpowiednim wcięciem.
+    level = 1 -> jedno "poziomowe" wcięcie od korzenia.
+    """
+    indent = " " * 10 * level
+
+    if node["type"] == "leaf":
+        print(f"{indent}{edge_label} -> D: {node['class']}")
+    else:
+        print(f"{indent}{edge_label}->Atrybut: {node['attr']}")
+        for wartosc, child in sorted(node["children"].items(), key=lambda kv: str(kv[0])):
+            print_subtree(child, wartosc, level + 1)
+
+
+def print_tree_root(tree, nazwa_pliku="car.data"):
+    """
+    Wypisuje całe drzewo w stylu:
+    Drzewo dla pliku car.data
+    Atrybut: 6
+              high->Atrybut: 4
+              ...
+    ****************************************************************************************************
+    """
+    print(f"Drzewo dla pliku {nazwa_pliku}")
+
+    if tree["type"] == "leaf":
+        # przypadek ekstremalny: drzewo z jednym liściem
+        print(f"D: {tree['class']}")
+    else:
+        print(f"Atrybut: {tree['attr']}")
+        for wartosc, child in sorted(tree["children"].items(), key=lambda kv: str(kv[0])):
+            print_subtree(child, wartosc, level=1)
+
+    print("*" * 100)  # linia gwiazdek na końcu
+
+
+
 
 # =========================================================
 
@@ -258,3 +401,16 @@ if __name__ == "__main__":
         g = gain(dane, i, info_T_value=entropia_zbioru, info_attr_value=info_attr)
         s = split_info(dane, i)
         gain_ratio(dane, i, gain_value=g, splitinfo_value=s)
+
+
+    # =========================================================
+    #      BUDOWA I WYPISANIE DRZEWA JAK W wizualizacja.txt
+    # =========================================================
+    # Atrybuty warunkowe to kolumny 1..(n-1)
+    atrybuty_warunkowe = list(range(1, len(dane[0])))
+
+    tree = build_tree(dane, atrybuty_warunkowe)
+
+    print("\n" + "*" * 100)
+    print_tree_root(tree, nazwa_pliku)
+
