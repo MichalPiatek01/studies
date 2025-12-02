@@ -295,6 +295,35 @@ def main():
 
     print(f"\nNajlepsza trasa: {trasa_str} (Całkowity ping: {ping}ms)")
 
+class Wezel:
+    def __init__(self, wartosc):
+        self.wartosc = wartosc
+
+    def __eq__(self, other):
+        if isinstance(other, Wezel):
+            return self.wartosc == other.wartosc
+        return False
+
+    def __hash__(self):
+        return hash(self.wartosc)
+
+    def __str__(self):
+        return f"{self.wartosc}"
+
+    def __repr__(self):
+        return self.__str__()
+
+class WezelBST:
+    def __init__(self, isbn, tytul):
+        self.isbn = isbn
+        self.tytul = tytul
+        self.licznik_sztuk = 1
+
+        self.left = None
+        self.right = None
+
+    def __str__(self):
+        return f"[{self.isbn}] {self.tytul} - Ilość: {self.licznik_sztuk}"
 
 if __name__ == '__main__':
     print(demo_text_history())
